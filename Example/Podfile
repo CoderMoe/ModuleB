@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CMoeDetailModule_Example' do
+  pod 'CMoeDetailModule', :path => '../'
+
+  target 'CMoeDetailModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
