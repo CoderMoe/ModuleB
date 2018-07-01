@@ -1,0 +1,16 @@
+PODS:
+  - CMoeDetailModule (0.1.0)
+
+DEPENDENCIES:
+  - CMoeDetailModule (from `../`)
+
+EXTERNAL SOURCES:
+  CMoeDetailModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMoeDetailModule: cca6dab53f5578ef4bfb5ed58f49afc9034b26e8
+
+PODFILE CHECKSUM: 28045d47ffebf6ee3c17b93fae8e0f8d5602f34f
+
+COCOAPODS: 1.5.0

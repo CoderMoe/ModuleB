@@ -7,6 +7,7 @@
 //
 
 #import "CMoeAppDelegate.h"
+#import "CMoeDetailViewController.h"
 
 @implementation CMoeAppDelegate
 

@@ -1,0 +1,6 @@
+framework module CMoeDetailModule {
+  umbrella header "CMoeDetailModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

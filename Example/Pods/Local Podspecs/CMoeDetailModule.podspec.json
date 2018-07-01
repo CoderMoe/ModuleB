@@ -1,0 +1,22 @@
+{
+  "name": "CMoeDetailModule",
+  "version": "0.1.0",
+  "summary": "A short description of CMoeDetailModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CoderMoe/ModuleB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "codermoe@gmail.com": "chenxiaolinsunny@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/CoderMoe/ModuleB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CMoeDetailModule/Classes/**/*"
+}
